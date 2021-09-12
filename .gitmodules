@@ -1,0 +1,9 @@
+[submodule "src/ols"]
+	path = src/ols
+	url = https://github.com/litespeedtech/openlitespeed.git
+[submodule "src/lsquic"]
+	path = src/lsquic
+	url = https://github.com/litespeedtech/lsquic.git
+[submodule "src/boringssl"]
+	path = src/boringssl
+	url = https://boringssl.googlesource.com/boringssl
