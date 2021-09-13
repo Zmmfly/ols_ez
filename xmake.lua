@@ -1,1 +1,2 @@
-includes("boringssl.lua")
+includes("scripts/boringssl.lua")
+includes("scripts/lsquic.lua")
