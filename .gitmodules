@@ -4,9 +4,6 @@
 [submodule "src/lsquic"]
 	path = src/lsquic
 	url = https://github.com/litespeedtech/lsquic.git
-[submodule "src/boringssl"]
-	path = src/boringssl
-	url = https://boringssl.googlesource.com/boringssl
 [submodule "src/xxhash"]
 	path = src/xxhash
 	url = https://github.com/Cyan4973/xxHash.git
