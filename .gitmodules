@@ -1,6 +1,6 @@
 [submodule "src/ols"]
 	path = src/ols
-	url = https://github.com/litespeedtech/openlitespeed.git
+	url = git@github.com:Zmmfly/openlitespeed.git
 [submodule "src/lsquic"]
 	path = src/lsquic
 	url = https://github.com/litespeedtech/lsquic.git
