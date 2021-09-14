@@ -1,0 +1,6 @@
+#define PACKAGE "ip2loc"
+#define PACKAGE_BUGREPORT "support@ip2location.com"
+#define PACKAGE_NAME "IP2Loc"
+#define PACKAGE_STRING "IP2Loc ${PKG_VER}"
+#define PACKAGE_TARNAME "ip2loc"
+#define PACKAGE_VERSION "${PKG_VER}"

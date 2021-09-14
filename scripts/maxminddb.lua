@@ -1,0 +1,8 @@
+target("maxminddb")
+    set_kind("static")
+    add_configfiles("../config/maxminddb_config.h.in")
+    set_configdir("../src/libmaxminddb/include")
+    add_includedirs("../src/libmaxminddb/include", {public=true})
+    add_includedirs("../src/libmaxminddb/src")
+    add_files("../src/libmaxminddb/src/*.c")
+    set_configvar("PKG_VER", "1.5.2")

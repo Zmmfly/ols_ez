@@ -22,3 +22,12 @@
 [submodule "src/ip2loc"]
 	path = src/ip2loc
 	url = https://github.com/chrislim2888/IP2Location-C-Library
+[submodule "src/boringssl"]
+	path = src/boringssl
+	url = https://github.com/google/boringssl
+[submodule "src/bcrypt"]
+	path = src/bcrypt
+	url = https://github.com/litespeedtech/libbcrypt
+[submodule "src/mod_sec"]
+	path = src/mod_sec
+	url = https://github.com/SpiderLabs/ModSecurity

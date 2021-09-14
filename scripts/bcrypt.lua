@@ -1,0 +1,6 @@
+target("bcrypt")
+    set_kind("static")
+    add_includedirs("../src/bcrypt", {public=true})
+    add_includedirs("../src/bcrypt/crypt_blowfish")
+    add_files("../src/bcrypt/**.c")
+    add_files("../src/bcrypt/crypt_blowfish/x86.S")
