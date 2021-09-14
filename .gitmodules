@@ -7,3 +7,21 @@
 [submodule "src/boringssl"]
 	path = src/boringssl
 	url = https://boringssl.googlesource.com/boringssl
+[submodule "src/xxhash"]
+	path = src/xxhash
+	url = https://github.com/Cyan4973/xxHash.git
+[submodule "src/brotli"]
+	path = src/brotli
+	url = https://github.com/google/brotli.git
+[submodule "src/udns"]
+	path = src/udns
+	url = https://github.com/ortclib/udns.git
+[submodule "src/libinjection"]
+	path = src/libinjection
+	url = https://github.com/client9/libinjection
+[submodule "src/libmaxminddb"]
+	path = src/libmaxminddb
+	url = https://github.com/maxmind/libmaxminddb
+[submodule "src/ip2loc"]
+	path = src/ip2loc
+	url = https://github.com/chrislim2888/IP2Location-C-Library
