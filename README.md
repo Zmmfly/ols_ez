@@ -9,3 +9,7 @@ If always get a golang timeout err when server in China, please run `go env -w G
 # ModSecurity compile
 `cd src/mod_sec`
 `./build.sh`
+
+# lsrecaptcha compile
+`cd src/ols/src/modules/lsrecaptcha`
+`./build_lsrecaptcha.sh`
